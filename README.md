@@ -1,8 +1,7 @@
 # The Intelligent Machine Research Lab (IMRL)
 
-The Intelligent Machine Research Lab (IMRL) at NJUST [NJUST](https://www.njust.edu.cn) is a research unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
-
-For more details, please check our homepage at Google page [IMRL](https://sites.google.com/view/huikonglab/home)
+The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikonglab/home)
+ at [NJUST](https://www.njust.edu.cn) is a research unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
 
 If you use our code for your academic research and feel valuable, please cite our related work for acknowledgement.
 
