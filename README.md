@@ -1,10 +1,10 @@
 # The Intelligent Machine Research Lab (IMRL)
 
-The Intelligent Machine Research Lab (IMRL) is a research unit that is devoted to conducting both fundamental and applied research in aspects of mobile robotics. We exploit varieties of sensors (cameras, lidars, GPS, and IMU etc) to fulfill tasks of the environment perception, SLAM, robot navigation, Lidar sensing, and industrial inspection. 
+The Intelligent Machine Research Lab (IMRL) at NJUST [NJUST](https://www.njust.edu.cn) is a research unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
 
-For more details, please see our homepage [IMRL](https://sites.google.com/view/huikonglab/home)
+For more details, please check our homepage at Google page [IMRL](https://sites.google.com/view/huikonglab/home)
 
-If you use our code for your academic research, please cite our related papers.
+If you use our code for your academic research and feel valuable, please cite our related work for acknowledgement.
 
 1. [home-pose](https://github.com/IMRL/homo-pose): Yaqing Ding, Jian Yang, Jean Ponce and Hui Kong, An efficient solution to the homography-based relative pose problem with a common reference direction, IEEE International Conference on Computer Vision (ICCV) 2019 (oral presentation)
 2. [LiDAR-Iris](https://github.com/IMRL/LiDAR-Iris): Ying Wang, Zezhou Sun, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, LiDAR-Iris for Loop Closure Detection, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation)
