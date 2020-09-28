@@ -12,4 +12,4 @@ If you use our code for your academic research and feel valuable, please cite ou
 5. [Lidar-histogram](https://github.com/IMRL/lidar-hist): Liang Chen, Jian Yang, and Hui Kong, Lidar-histogram for fast road and obstacle detection, IEEE International Conference on Robotics and Automation (ICRA) 2017.
 
 
-Wecome to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
+Welcome to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
