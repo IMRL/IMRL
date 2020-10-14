@@ -10,6 +10,7 @@ If you use our code for your academic research and feel valuable, please cite ou
 3. [Active-SLAM-with-Cartographer](https://github.com/IMRL/Active-SLAM-with-Cartographer): Zezhou Sun, Banghe Wu, Cheng-Zhong Xu, Sanjay Sarma, Jian Yang, and Hui Kong, Frontier Detection and Reachability Analysis for Efficient 2D Graph-SLAM Based Active Exploration, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2020 (oral presentation)
 4. [Two-view fusion CNN for road detection](https://github.com/IMRL/T-V-fusionCNN): Shuo Gu, Jian Yang, and Hui Kong, Two-View Fusion based Convolutional Neural Network for Urban Road Detection, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2019 (oral presentation)
 5. [Lidar-histogram](https://github.com/IMRL/lidar-hist): Liang Chen, Jian Yang, and Hui Kong, Lidar-histogram for fast road and obstacle detection, IEEE International Conference on Robotics and Automation (ICRA) 2017.
+6. [Two-step-calib-Lidar-Camera]():Yingna Su, Yaqing Ding, Jian Yang, and Hui Kong, A two-step approach to Lidar-Camera calibration, IEEE International Conference on Pattern Recognition (ICPR), 2020
 
 
 Welcome to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
