@@ -14,3 +14,5 @@ If you use our code for your academic research and feel valuable, please cite ou
 
 
 Come on to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
+
+-Yesterday is a history. Tomorrow is a mistery. Today is a gift. That's why we call it the present. 珍惜时间，为你的理想和兴趣努力！
