@@ -3,7 +3,7 @@
 The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikonglab/home)
  at [NJUST](https://www.njust.edu.cn) is a scientific unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
 
-If you use our code for your academic research and feel valuable, please cite our work! 
+If you use our code for your academic research, please cite our work! 
 
 1. [Two-step-calib-Lidar-Camera](https://github.com/IMRL/Calib-Lidar-Camera-icpr20): Yingna Su, Yaqing Ding, Jian Yang, and Hui Kong, A two-step approach to Lidar-Camera calibration, IEEE International Conference on Pattern Recognition (ICPR), 2020
 2. [home-pose](https://github.com/IMRL/homo-pose): Yaqing Ding, Jian Yang, Jean Ponce and Hui Kong, An efficient solution to the homography-based relative pose problem with a common reference direction, IEEE International Conference on Computer Vision (ICCV) 2019 (oral presentation)
