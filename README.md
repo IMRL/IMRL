@@ -12,6 +12,7 @@ If you use our code for your academic research and feel valuable, please cite ou
 5. [Two-view fusion CNN for road detection](https://github.com/IMRL/T-V-fusionCNN): Shuo Gu, Jian Yang, and Hui Kong, Two-View Fusion based Convolutional Neural Network for Urban Road Detection, IEEE International Conference on Intelligent Robotics and Systems (IROS) 2019 (oral presentation)
 6. [Lidar-histogram](https://github.com/IMRL/lidar-hist): Liang Chen, Jian Yang, and Hui Kong, Lidar-histogram for fast road and obstacle detection, IEEE International Conference on Robotics and Automation (ICRA) 2017.
 7. [gLoG-pathological-image-analysis](https://github.com/IMRL/gLoG-pathological-image): Hui Kong, Hatice Cinar Akakin, Sanjay E. Sarma, A generalized Laplacian of Gaussian filter for blob detection and its applications, IEEE Transactions on Cybernetics, 43(6), pp.1719-1733, 2013
+8. [gLoG-vanishing-point](https://github.com/IMRL/gLoG-vanishing-point): Hui Kong, Sanjay E. Sarma, and Feng Tang. "Generalizing Laplacian of Gaussian filters for vanishing-point detection." IEEE Transactions on Intelligent Transportation Systems, 14(1), pp.408-418, 2012.
 
 Come on to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
 
