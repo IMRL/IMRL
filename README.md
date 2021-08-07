@@ -1,7 +1,7 @@
 # The Intelligent Machine Research Lab (IMRL)
 
 The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikonglab/home)
- at [University of Macau](https://www.um.edu.mo) is a scientific unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
+ at [University of Macau](https://www.um.edu.mo) is a scientific unit that is devoted to conducting both fundamental and applied research in autonomous driving and mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
 
 If you use our code for your academic research, please cite our work! 
 
