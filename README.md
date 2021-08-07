@@ -1,7 +1,7 @@
 # The Intelligent Machine Research Lab (IMRL)
 
 The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikonglab/home)
- at [NJUST](https://www.njust.edu.cn) is a scientific unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
+ at [University of Macau](https://www.um.edu.mo) is a scientific unit that is devoted to conducting both fundamental and applied research in most aspects of mobile robotics. We exploit varieties of sensors (cameras, Lidars, Radars, GPS, wheel odometer, and IMU etc) to fulfill tasks of the machine perception, SLAM, autonomous navigation, motion planning, behavior prediction, Lidar sensing, and sensor fusion. 
 
 If you use our code for your academic research, please cite our work! 
 
@@ -14,7 +14,7 @@ If you use our code for your academic research, please cite our work!
 7. [gLoG-pathological-image-analysis](https://github.com/IMRL/gLoG-pathological-image): Hui Kong, Hatice Cinar Akakin, Sanjay E. Sarma, A generalized Laplacian of Gaussian filter for blob detection and its applications, IEEE Transactions on Cybernetics, 43(6), pp.1719-1733, 2013
 8. [gLoG-vanishing-point](https://github.com/IMRL/gLoG-vanishing-point): Hui Kong, Sanjay E. Sarma, and Feng Tang. "Generalizing Laplacian of Gaussian filters for vanishing-point detection." IEEE Transactions on Intelligent Transportation Systems, 14(1), pp.408-418, 2013.
 
-Come on to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or konghui@njust.edu.cn. 
+Come on to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or huikong@um.edu.mo. 
 
 -Yesterday is a history. Tomorrow is a mistery. Today is a gift. That's why we call it the present. 
 - 珍惜今天，为你的理想、兴趣和好奇心而努力探索！
