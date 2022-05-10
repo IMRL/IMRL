@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [HiTPR](https://github.com/LouisNUST/CrackFormer-II): Zhixing Hou, Yan Yan, Chengzhong Xu, Hui Kong, HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, IEEE International Conference on Robotics and Automation (ICRA) , 2022
+1. [HiTPR](https://github.com/zxhou/HiTPR): Zhixing Hou, Yan Yan, Chengzhong Xu, Hui Kong, HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, IEEE International Conference on Robotics and Automation (ICRA) , 2022
 2. [CrackFormer](https://github.com/LouisNUST/CrackFormer-II): Huajun Liu, Xiangyu Miao, Christoph Mertz, Chengzhong Xu, Hui Kong, CrackFormer: Transformer Network for Fine-Grained Crack Detection (ICCV), 2021
 3. [Cascaded-Non-Local-PointCloud-Seg](https://github.com/MMCheng/PointNL): Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation, International Conference on Intelligent Robotics and Systems (IROS) 2020
 4. [Two-step-calib-Lidar-Camera](https://github.com/IMRL/Calib-Lidar-Camera-icpr20): Yingna Su, Yaqing Ding, Jian Yang, and Hui Kong, A two-step approach to Lidar-Camera calibration, IEEE International Conference on Pattern Recognition (ICPR), 2020
