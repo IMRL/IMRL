@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [](https://github.com/zxhou/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, IEEE International Conference on Robotics and Automation (ICRA) , 2022
+1. [Lidar-road-atlas](https://github.com/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, https://arxiv.org/abs/2204.05727, 2022
 2. [HiTPR](https://github.com/zxhou/HiTPR): Zhixing Hou, Yan Yan, Chengzhong Xu, Hui Kong, HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, IEEE International Conference on Robotics and Automation (ICRA) , 2022
 3. [CrackFormer](https://github.com/LouisNUST/CrackFormer-II): Huajun Liu, Xiangyu Miao, Christoph Mertz, Chengzhong Xu, Hui Kong, CrackFormer: Transformer Network for Fine-Grained Crack Detection (ICCV), 2021
 4. [Cascaded-Non-Local-PointCloud-Seg](https://github.com/MMCheng/PointNL): Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation, International Conference on Intelligent Robotics and Systems (IROS) 2020
