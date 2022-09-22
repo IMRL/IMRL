@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [Lidar-CPC-BEV](https://github.com/IMRL/LiDAR-CPC-BEV): Jiacheng Lu, Shuo Gu, Chengzhong Xu, Hui Kong, A Cylindrical Convolution Network for Dense Top-View Semantic Segmentation with LiDAR Point Clouds, Asian Conference on Computer Vision (ACCV), 2022
+1. [Lidar-CPC-BEV](https://github.com/IMRL/LiDAR-CPC-BEV): Jiacheng Lu, Shuo Gu, Chengzhong Xu, Hui Kong, A Cylindrical Convolution Network for Dense Top-View Semantic Segmentation with LiDAR Point Clouds, Asian Conference on Computer Vision (ACCV), https://repository.um.edu.mo/handle/10692/112374, 2022
 2. [Lidar-road-atlas](https://github.com/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, https://arxiv.org/abs/2204.05727, 2022
 3. [HiTPR](https://github.com/zxhou/HiTPR): Zhixing Hou, Yan Yan, Chengzhong Xu, Hui Kong, HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud, IEEE International Conference on Robotics and Automation (ICRA) , 2022
 4. [CrackFormer](https://github.com/LouisNUST/CrackFormer-II): Huajun Liu, Xiangyu Miao, Christoph Mertz, Chengzhong Xu, Hui Kong, CrackFormer: Transformer Network for Fine-Grained Crack Detection (ICCV), 2021
