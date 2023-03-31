@@ -23,5 +23,3 @@ If you use our code for your academic research, please cite our work!
 
 Come on to join us! We are always looking for students who have strong motivations in robotics/AI/computer-vision research and outstanding academic background in computer programming (C++/Python/Matlab etc.) and mathmatics. Please feel free to drop us an email at tom.hui.kong@gmail.com or huikong@um.edu.mo. 
 
--Yesterday is a history. Tomorrow is a mistery. Today is a gift. That's why we call it the present. 
-- 珍惜今天，为你的理想、兴趣和好奇心而努力探索！
