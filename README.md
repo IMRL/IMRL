@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1.	[Lidar-road-atlas](https://github.com/IMRL/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, https://arxiv.org/abs/2204.05727, Journal of Field Robotics, 2023
+1.	[Lidar-road-atlas](https://github.com/IMRL/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, [https://arxiv.org/abs/2204.05727](https://fieldrobotics.net/Field_Robotics/Volume_3_files/Vol3_14.pdf), Journal of Field Robotics, 2023
 2.	[PTC-Net](https://github.com/LeegoChen/PTC-Net): Lineng Chen, Huan Wang, Hui Kong, Wankou Yang, Mingwu Ren，PTC-Net: Point-Wise Transformer with Sparse Convolution Network for Place Recognition, IEEE Robotics and Automation Letters, 2023
 3.	[CrackFormer-II](https://github.com/LouisNUST/CrackFormer-II): Huajun Liu, Jing Yang, Xianyu Miao, Christoph Mertz, and Hui Kong, CrackFormer Network for Pavement Crack Segmentation, IEEE Transactions on Intelligent Transportation Systems, 2023
 4.	[Dual-Spectrum-Depth]( https://github.com/whitecrow1027/CrossSP_Depth): Yubin Guo, Xinlei Qi, Jin Xie, Cheng-Zhong Xu, and Hui Kong, Cross-Spectrum Unsupervised Depth Estimation by Visible-light and Thermal Cameras, IEEE Transactions on Intelligent Transportation Systems, 2023
