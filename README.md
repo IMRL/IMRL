@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [LiDAR-Semantic-Particle](https://github.com/IMRL/LiDAR-Semantic-Particle): Yuming Huang, Yi Gu, Cheng-Zhong Xu, and Hui Kong, Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map, https://arxiv.org/abs/2305.14038, 2023
+1. [LiDAR-Semantic-Particles](https://github.com/IMRL/LiDAR-Semantic-Particle): Yuming Huang, Yi Gu, Cheng-Zhong Xu, and Hui Kong, Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map, https://arxiv.org/abs/2305.14038, 2023
 2. [GSB-Transformer](https://github.com/IMRL/GSB-Vision-Transformer): Tian Gao, Cheng-Zhong Xu, Le Zhang, Hui Kong, GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples, https://arxiv.org/abs/2305.07931, 2023	
 3.	[LiDAR-Road-Atlas](https://github.com/IMRL/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, [https://arxiv.org/abs/2204.05727](https://fieldrobotics.net/Field_Robotics/Volume_3_files/Vol3_14.pdf), Journal of Field Robotics, 2023
 4.	[PTC-Net](https://github.com/LeegoChen/PTC-Net): Lineng Chen, Huan Wang, Hui Kong, Wankou Yang, Mingwu Ren，PTC-Net: Point-Wise Transformer with Sparse Convolution Network for Place Recognition, IEEE Robotics and Automation Letters, 2023
