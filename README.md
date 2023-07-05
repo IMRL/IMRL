@@ -6,7 +6,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 If you use our code for your academic research, please cite our work! 
 
 1. [HPPLO-Net](https://github.com/IMRL/HPPLO-Net): Beibei Zhou, Yiming Tu, Zhong Jin, Chengzhong Xu, Hui Kong, HPPLO-Net: Unsupervised LiDAR Odometry Using Hierarchical Point-to-Plane Solver, IEEE Transactions on Intelligent Vehicles, 2023 
-2. [Robotic-Exploration-Graph-Gain](https://github.com/IMRL/Graph_Gain_Exploration)：Zezhou Sun, Banghe Wu, Cheng-Zhong Xu, and Hui Kong, Concave-Hull Induced Graph-Gain for Fast and Robust Robotic Exploration, IEEE Robotics and Automation Letters (under review), 2023
+2. [Robotic-Exploration-Graph-Gain](https://github.com/IMRL/Graph_Gain_Exploration)：Zezhou Sun, Banghe Wu, Cheng-Zhong Xu, and Hui Kong, Concave-Hull Induced Graph-Gain for Fast and Robust Robotic Exploration, IEEE Robotics and Automation Letters, 2023
 3. [LiDAR-Semantic-Particles](https://github.com/IMRL/LiDAR-Semantic-Particle): Yuming Huang, Yi Gu, Cheng-Zhong Xu, and Hui Kong, Why semantics matters: A deep study on semantic particle-filtering localization in a LiDAR semantic pole-map, https://arxiv.org/abs/2305.14038, (under review) 2023
 4. [GSB-Transformer](https://github.com/IMRL/GSB-Vision-Transformer): Tian Gao, Cheng-Zhong Xu, Le Zhang, Hui Kong, GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples, https://arxiv.org/abs/2305.07931, 2023	
 5.	[LiDAR-Road-Atlas](https://github.com/IMRL/Lidar-road-atlas): Banghe Wu, Chengzhong Xu, Hui Kong, Lidar Road-Atlas: An Efficient Map Representation for General 3d Urban Environment, [https://arxiv.org/abs/2204.05727](https://fieldrobotics.net/Field_Robotics/Volume_3_files/Vol3_14.pdf), Field Robotics, 2023
