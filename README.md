@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [FMCW-LIO](https://github.com/IMRL/FMCW-LIO): Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong, FMCW-LIO: A Robust Doppler-Aided LiDAR-Inertial Odometry, IEEE Robotics and Automation Letters (IEEE-RAL), 2024
+1. [FMCW-LIO](https://github.com/IMRL/FMCW-LIO): Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong, FMCW-LIO: A Doppler-Aided LiDAR-Inertial Odometry, IEEE Robotics and Automation Letters (IEEE-RAL), 2024
 2. [UMAD](https://github.com/IMRL/UMAD): Dong Li, Lineng Chen, Chengzhong Xu, Hui Kong, UMAD: University of Macau Anomaly Detection Benchmark Dataset, under review, 2024
 3. [Night-Rider](https://github.com/IMRL/Night-Rider): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, Hui Kong, Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering, IEEE International Conference on Robotics and Automation (ICRA), 2024
 4. [GSB-Transformer](https://github.com/IMRL/GSB-Vision-Transformer): Tian Gao, Cheng-Zhong Xu, Le Zhang, Hui Kong, GSB: Group Superposition Binarization for Vision Transformer with Limited Training Samples, https://arxiv.org/abs/2305.07931, Neural Networks, 2024	
