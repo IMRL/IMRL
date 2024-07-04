@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [Night-Voyager](https://github.com/IMRL/ActiveLoopClosure): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, Hui Kong, Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Cross-Modal Maps, under review, 2024
+1. [Night-Voyager](https://github.com/IMRL/Night-Voyager): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, Hui Kong, Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Cross-Modal Maps, under review, 2024
 2. [ActiveLoopClosure](https://github.com/IMRL/ActiveLoopClosure) Wei Gao, Zezhou Sun, Mingle Zhao, Chengzhong Xu, and Hui Kong,  Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environment, IEEE International Conference on Intelligent Robotics and Systems (IROS), 2024
 3. [FMCW-LIO](https://github.com/IMRL/FMCW-LIO): Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong, [FMCW-LIO: A Doppler LiDAR-Inertial Odometry](https://ieeexplore.ieee.org/document/10518074), IEEE Robotics and Automation Letters (IEEE-RAL), 2024
 4. [UMAD](https://github.com/IMRL/UMAD): Dong Li, Lineng Chen, Chengzhong Xu, Hui Kong, UMAD: University of Macau Anomaly Detection Benchmark Dataset, IEEE International Conference on Intelligent Robotics and Systems (IROS), 2024
