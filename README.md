@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [UAV-Pathfinder](https://github.com/IMRL/Pathfinder): Kaijie Yin, Tian Gao, and Hui Kong, [Pathfinder for Low-altitude Aircraft with Binary Neural Network](https://arxiv.org/pdf/2409.08824), under review, ICRA'2024
+1. [UAV-Pathfinder](https://github.com/IMRL/Pathfinder): Kaijie Yin, Tian Gao, and Hui Kong, [Pathfinder for Low-altitude Aircraft with Binary Neural Network](https://arxiv.org/pdf/2409.08824), under review, ICRA'2025
 2. [Night-Voyager](https://github.com/IMRL/Night-Voyager): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, and Hui Kong, Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Cross-Modal Maps, under review, IEEE Transactions on Robotics, 2024
 3. [ActiveLoopClosure](https://github.com/IMRL/ActiveLoopClosure) Wei Gao, Zezhou Sun, Mingle Zhao, Chengzhong Xu, and Hui Kong,  [Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environment](https://arxiv.org/abs/2407.17078), IEEE International Conference on Intelligent Robotics and Systems (IROS), 2024
 4. [FMCW-LIO](https://github.com/IMRL/FMCW-LIO): Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong, [FMCW-LIO: A Doppler LiDAR-Inertial Odometry](https://ieeexplore.ieee.org/document/10518074), IEEE Robotics and Automation Letters (IEEE-RAL), 2024
