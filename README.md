@@ -5,8 +5,8 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [BHViT](https://github.com/IMRL/BHViT): Tian Gao, Zhiyuan Zhang, Yu Zhang, Huajun Liu, Kaijie Yin, Chengzhong Xu, Hui Kong, BHViT: Binarized Hybrid Vision Transformer, IEEE CVPR, 2025
-2. [Night-Voyager](https://github.com/IMRL/Night-Voyager): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, and Hui Kong, Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Cross-Modal Maps, IEEE Transactions on Robotics, 2025
+1. [BHViT](https://github.com/IMRL/BHViT): Tian Gao, Zhiyuan Zhang, Yu Zhang, Huajun Liu, Kaijie Yin, Chengzhong Xu, Hui Kong, [BHViT: Binarized Hybrid Vision Transformer](https://arxiv.org/abs/2503.02394), IEEE CVPR, 2025
+2. [Night-Voyager](https://github.com/IMRL/Night-Voyager): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, and Hui Kong, [Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps](https://arxiv.org/abs/2502.20054), IEEE Transactions on Robotics, 2025
 3. [Free-Init](https://github.com/IMRL/FreeIni): Free-Init: Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong,  [Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems](https://ieeexplore.ieee.org/document/10740796), IEEE Robotics and Automation Letters (RA-L), 2024
 4. [UAV-Pathfinder](https://github.com/IMRL/Pathfinder): Kaijie Yin, Tian Gao, and Hui Kong, [Pathfinder for Low-altitude Aircraft with Binary Neural Network](https://arxiv.org/pdf/2409.08824), under review, IROS'2025
 5. [ActiveLoopClosure](https://github.com/IMRL/ActiveLoopClosure) Wei Gao, Zezhou Sun, Mingle Zhao, Chengzhong Xu, and Hui Kong,  [Active Loop Closure for OSM-guided Robotic Mapping in Large-Scale Urban Environment](https://arxiv.org/abs/2407.17078), IEEE International Conference on Intelligent Robotics and Systems (IROS), 2024
