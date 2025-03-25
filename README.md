@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [OriField](https://github.com/IMRL/OriField): Yuming Huang, Wei Gao, Zhiyuan Zhang, Maani Ghaffari Jadidi, Dezhen Song, Chengzhong Xu, and Hui Kong, Learning Orientation Field for OSM-Guided Autonomous Navigation, submitted to Journal of Field Robotics, 2025
+1. [OriField](https://github.com/IMRL/OriField): Yuming Huang, Wei Gao, Zhiyuan Zhang, Maani Ghaffari Jadidi, Dezhen Song, Chengzhong Xu, and Hui Kong, [Learning Orientation Field for OSM-Guided Autonomous Navigation](https://arxiv.org/abs/2503.18276), submitted to Journal of Field Robotics, 2025
 2. [BHViT](https://github.com/IMRL/BHViT): Tian Gao, Yu Zhang, Zhiyuan Zhang, Huajun Liu, Kaijie Yin, Chengzhong Xu, Hui Kong, [BHViT: Binarized Hybrid Vision Transformer](https://arxiv.org/abs/2503.02394), IEEE CVPR, 2025
 3. [Night-Voyager](https://github.com/IMRL/Night-Voyager): Tianxiao Gao, Mingle Zhao, Cheng-Zhong Xu, and Hui Kong, [Night-Voyager: Consistent and Efficient Nocturnal Vision-Aided State Estimation in Object Maps](https://arxiv.org/abs/2502.20054), IEEE Transactions on Robotics, 2025
 4. [Free-Init](https://github.com/IMRL/FreeIni): Free-Init: Mingle Zhao, Jiahao Wang, Tianxiao Gao, Chengzhong Xu, and Hui Kong,  [Free-Init: Scan-Free, Motion-Free, and Correspondence-Free Initialization for Doppler LiDAR-Inertial Systems](https://ieeexplore.ieee.org/document/10740796), IEEE Robotics and Automation Letters (RA-L), 2024
