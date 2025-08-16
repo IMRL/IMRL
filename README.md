@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [SuperLidarReflectance](https://anonymous.4open.science/r/Super_supplementary_material-6799/README.md): Wei Gao, Jie Zhang, Mingle Zhao, Zhiyuan Zhang, Shu Kong, Maani Ghaffari, Dezhen Song, Cheng-Zhong Xu, and Hui Kong, Super LiDAR Reflectance for Robotic Perception, (under review), https://doi.org/10.48550/arXiv.2508.10398, 2025
+1. [Super-Lidar-Reflectance](https://anonymous.4open.science/r/Super_supplementary_material-6799/README.md): Wei Gao, Jie Zhang, Mingle Zhao, Zhiyuan Zhang, Shu Kong, Maani Ghaffari, Dezhen Song, Cheng-Zhong Xu, and Hui Kong, Super LiDAR Reflectance for Robotic Perception, (under review), https://doi.org/10.48550/arXiv.2508.10398, 2025
 2. [REACTER](https://github.com/zouqingxiao/REACTER): Qingxiao Zou, Hui Kong, Wankou Yang, REACTER: Perception-Informed Adaptive Tracker in Cluttered Environments, IEEE Robotics and Automation Letters (RA-L), 2025
 3. [BiCD](https://github.com/exaids66/BiCD): Kaijie Yin, Zhiyuan Zhang, Shu Kong, Tian Gao, Chengzhong Xu, and 
  Hui Kong, [Information-Bottleneck Driven Binary Neural Network for Change Detection](https://arxiv.org/abs/2507.03504), IEEE ICCV, 2025
