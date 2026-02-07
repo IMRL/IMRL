@@ -5,7 +5,7 @@ The Intelligent Machine Research Lab [IMRL](https://sites.google.com/view/huikon
 
 If you use our code for your academic research, please cite our work! 
 
-1. [Super-Lidar-Intensity]([https://github.com/IMRL/Super-LiDAR-Intensity]): Wei Gao, Jie Zhang, Mingle Zhao, Zhiyuan Zhang, Shu Kong, Maani Ghaffari, Dezhen Song, Cheng-Zhong Xu, and Hui Kong, [Super LiDAR Intensity for Robotic Perception](https://doi.org/10.48550/arXiv.2508.10398), IEEE Robotics and Automation Letters (RA-L), 2026
+1. [Super-Lidar-Intensity](https://github.com/IMRL/Super-LiDAR-Intensity): Wei Gao, Jie Zhang, Mingle Zhao, Zhiyuan Zhang, Shu Kong, Maani Ghaffari, Dezhen Song, Cheng-Zhong Xu, and Hui Kong, [Super LiDAR Intensity for Robotic Perception](https://doi.org/10.48550/arXiv.2508.10398), IEEE Robotics and Automation Letters (RA-L), 2026
 2. [SD-SSC](https://github.com/Saturday-xql/SD-SSC): Qiongli Xu, Shuo Gu, Yigong Zhang, Chenyang Zhang, Hui Kong, and Jian Yang, Semantic Decoupling Based Semantic Scene Completion From a Single Depth Image, IEEE Robotics and Automation Letters (RA-L), 2025
 3. [REACTER](https://github.com/zouqingxiao/REACTER): Qingxiao Zou, Hui Kong, Wankou Yang, REACTER: Perception-Informed Adaptive Tracker in Cluttered Environments, IEEE Robotics and Automation Letters (RA-L), 2025
 4. [BiCD](https://github.com/exaids66/BiCD): Kaijie Yin, Zhiyuan Zhang, Shu Kong, Tian Gao, Chengzhong Xu, and 
