@@ -7,7 +7,7 @@ If you use our code for your academic research, please cite our work!
 
 1. [Super-Lidar-Intensity](https://github.com/IMRL/Super-LiDAR-Intensity): Wei Gao, Jie Zhang, Mingle Zhao, Zhiyuan Zhang, Shu Kong, Maani Ghaffari, Dezhen Song, Cheng-Zhong Xu, and Hui Kong, [Super LiDAR Intensity for Robotic Perception](https://doi.org/10.48550/arXiv.2508.10398), IEEE Robotics and Automation Letters (RA-L), 2026
 2. [BiLoc](https://github.com/exaids66/BiLoc): Kaijie Yin, Zhiyuan Zhang, Tian Gao, Wentao Zhu, Chengzhong Xu, and 
-Hui Kong, [Learning 1-Bit LiDAR-based Localization with Auxiliary Objective](), European Conference on Computer Vision (ECCV), 2026
+Hui Kong, [Learning 1-Bit LiDAR-based Localization with Auxiliary Objective](https://arxiv.org/abs/2606.27729), European Conference on Computer Vision (ECCV), 2026
 3. [SD-SSC](https://github.com/Saturday-xql/SD-SSC): Qiongli Xu, Shuo Gu, Yigong Zhang, Chenyang Zhang, Hui Kong, and Jian Yang, Semantic Decoupling Based Semantic Scene Completion From a Single Depth Image, IEEE Robotics and Automation Letters (RA-L), 2026
 4. [REACTER](https://github.com/zouqingxiao/REACTER): Qingxiao Zou, Hui Kong, Wankou Yang, REACTER: Perception-Informed Adaptive Tracker in Cluttered Environments, IEEE Robotics and Automation Letters (RA-L), 2025
 5. [BiCD](https://github.com/exaids66/BiCD): Kaijie Yin, Zhiyuan Zhang, Shu Kong, Tian Gao, Chengzhong Xu, and 
